@@ -149,7 +149,7 @@ int main() {
 
             case 5:
                 banco.guardarDatos("BancoJaveriano.json");
-                cout << "Gracias por usar el sistema del Banco Javeriano. ¡Hasta pronto!\n";
+                cout << "Gracias por usar el sistema del Banco Javeriano. Hasta pronto\n";
                 break;
 
             default:
